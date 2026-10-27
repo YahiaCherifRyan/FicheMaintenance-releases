@@ -1,10 +1,12 @@
 {
-  "version": "2.13.1",
+  "version": "2.14.0",
   "date": "2026-10-27",
   "notes": [
-    "Accès à distance : nouveau champ « Connexion internet déjà présente » (Non précisé / Oui / Non) dans la fiche d'un site, repris dans le PDF et sur la carte de la liste.",
+    "Accès à distance : import de PDF au modèle (bouton « Importer des PDF ») pour créer d'un coup les fiches : site, Internet sur place, Modem 4G, référence du modem et appareils. Lecture locale.",
+    "Fiche alignée sur votre feuille : « Internet sur place » et « Modem 4G » passent en Non précisé / Oui / Non (fiches existantes converties), repris dans le PDF.",
+    "Les PDF exportés par l'application se relisent à l'identique à l'import.",
     "Guide rapide : GIF et texte « Accès à distance » mis à jour."
   ],
-  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v2.13.1",
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v2.14.0",
   "annonce": ""
 }
