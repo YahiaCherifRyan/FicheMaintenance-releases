@@ -1,1 +1,12 @@
-{"version":"2.12.0","date":"2026-10-26","notes":["Suivi des sites : « Joindre » ajoute la fiche PDF d'un site à la suite du PDF du suivi, avec liens internes et retour au suivi. Le PDF fonctionne sur tout poste.","« Tout joindre » / « Ne rien joindre » et compteur de fiches jointes dans l'aperçu. Fiche protégée, illisible ou trop lourde (150 Mo, 400 Mo au total) : non jointe, lien conservé.","Sans fiche jointe, l'export reste inchangé. Guide rapide mis à jour."],"url":"https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v2.12.0","annonce":""}
+{
+  "version": "2.13.0",
+  "date": "2026-10-27",
+  "notes": [
+    "Nouvelle page « Accès à distance » : une fiche par site (Internet sur place, référence modem) avec un tableau d'appareils numérotés (nom, adresse IP, type de connexion).",
+    "Ajout, suppression et duplication de fiches et d'appareils ; le site se choisit parmi les sites connus et le N° d'affaire s'affiche tout seul.",
+    "Export PDF au rendu du modèle : une fiche seule ou toutes dans un seul PDF (un site par page), avec mot de passe d'ouverture facultatif.",
+    "Guide rapide : nouvelle diapositive « Accès à distance »."
+  ],
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v2.13.0",
+  "annonce": ""
+}
