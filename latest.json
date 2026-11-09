@@ -1,12 +1,13 @@
 {
-  "version": "2.14.0",
-  "date": "2026-10-27",
+  "version": "3.2.0",
+  "date": "2026-11-09",
   "notes": [
-    "Accès à distance : import de PDF au modèle (bouton « Importer des PDF ») pour créer d'un coup les fiches : site, Internet sur place, Modem 4G, référence du modem et appareils. Lecture locale.",
-    "Fiche alignée sur votre feuille : « Internet sur place » et « Modem 4G » passent en Non précisé / Oui / Non (fiches existantes converties), repris dans le PDF.",
-    "Les PDF exportés par l'application se relisent à l'identique à l'import.",
-    "Guide rapide : GIF et texte « Accès à distance » mis à jour."
+    "Nouveau design « Rams industriel » sur PC et téléphone : polices système, fond gris chaud et papier, accent orange, icônes SVG, mêmes fonctions.",
+    "Nouvel écran « Échanger avec le téléphone » : paquet chiffré (.fmx) envoyé par le Wi-Fi, QR code, serveur local temporaire, code d'accès et code du paquet.",
+    "Application mobile de consultation hors ligne : fiches, sites, suivi, accès à distance, export / import .json de secours.",
+    "Cette version regroupe les versions 2.15 à 3.1, jamais publiées.",
+    "Échangez uniquement sur un Wi-Fi de confiance : le paquet passe en HTTP."
   ],
-  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v2.14.0",
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.2.0",
   "annonce": ""
 }
