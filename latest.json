@@ -1,13 +1,13 @@
 {
-  "version": "3.2.0",
-  "date": "2026-11-09",
+  "version": "3.3.0",
+  "date": "2026-11-10",
   "notes": [
-    "Nouveau design « Rams industriel » sur PC et téléphone : polices système, fond gris chaud et papier, accent orange, icônes SVG, mêmes fonctions.",
-    "Nouvel écran « Échanger avec le téléphone » : paquet chiffré (.fmx) envoyé par le Wi-Fi, QR code, serveur local temporaire, code d'accès et code du paquet.",
-    "Application mobile de consultation hors ligne : fiches, sites, suivi, accès à distance, export / import .json de secours.",
-    "Cette version regroupe les versions 2.15 à 3.1, jamais publiées.",
-    "Échangez uniquement sur un Wi-Fi de confiance : le paquet passe en HTTP."
+    "Créateur de PDF : options façon Word (barré, exposant, indice, surlignage, police, taille, interligne, styles de titre).",
+    "Téléphone : l'onglet « Informations du site » s'ouvre sur la liste des catégories.",
+    "Convertisseur d'images : nouveau réglage « Taille » (pourcentage ou pixels), qualité par défaut à 95 %.",
+    "Sauvegarde complète de toutes les données et bouton « Restaurer une sauvegarde… ».",
+    "La sauvegarde manuelle contient les identifiants non chiffrés : gardez ce fichier en lieu sûr."
   ],
-  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.2.0",
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.3.0",
   "annonce": ""
 }
