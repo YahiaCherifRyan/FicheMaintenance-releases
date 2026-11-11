@@ -1,9 +1,9 @@
 {
-  "version": "3.4.1",
+  "version": "3.4.2",
   "date": "2026-11-11",
   "notes": [
-    "Suivi des sites : le formulaire d'ajout de technicien masque la liste et donne toute la hauteur à la zone des sites."
+    "Techniciens d'un site : le bouton « Gérer les techniciens… » ne touche plus le bas du pop-up et le texte d'absence de technicien est plus lisible."
   ],
-  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.4.1",
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.4.2",
   "annonce": ""
 }
