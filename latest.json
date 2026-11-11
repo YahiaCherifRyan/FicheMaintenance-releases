@@ -1,13 +1,15 @@
 {
-  "version": "3.3.0",
-  "date": "2026-11-10",
+  "version": "3.4.0",
+  "date": "2026-11-11",
   "notes": [
-    "Créateur de PDF : options façon Word (barré, exposant, indice, surlignage, police, taille, interligne, styles de titre).",
-    "Téléphone : l'onglet « Informations du site » s'ouvre sur la liste des catégories.",
-    "Convertisseur d'images : nouveau réglage « Taille » (pourcentage ou pixels), qualité par défaut à 95 %.",
-    "Sauvegarde complète de toutes les données et bouton « Restaurer une sauvegarde… ».",
-    "La sauvegarde manuelle contient les identifiants non chiffrés : gardez ce fichier en lieu sûr."
+    "Suivi des sites : nouveau bouton « TECH » pour gérer les techniciens de maintenance (ajout, modification, import et export .csv ou .xlsx).",
+    "Chaque site affiche ses techniciens ; un bouton « TECH » par site ouvre un pop-up avec leurs autres sites.",
+    "Suivi des sites : les fichiers joints (bouton « Joindre ») sont supprimés ; l'export PDF reste disponible.",
+    "Créateur de PDF : option « Informations du technicien en fin de document ».",
+    "Convertisseur d'images : les proportions sont toujours conservées.",
+    "Page d'envoi de photos du téléphone et écran de transfert harmonisés visuellement ; guide rapide retiré (setup plus léger).",
+    "Scanneur.bat plus fiable : comptes administrateurs de domaine listés, plus de faux « OK »."
   ],
-  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.3.0",
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.4.0",
   "annonce": ""
 }
