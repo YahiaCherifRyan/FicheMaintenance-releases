@@ -1,9 +1,11 @@
 {
-  "version": "3.4.2",
-  "date": "2026-11-11",
+  "version": "3.5.0",
+  "date": "2026-11-13",
   "notes": [
-    "Techniciens d'un site : le bouton « Gérer les techniciens… » ne touche plus le bas du pop-up et le texte d'absence de technicien est plus lisible."
+    "Suivi des sites : le bouton TECH devient « Veolia » (barre du Suivi et chaque site), avec le pop-up « Veolia : équipe de maintenance ».",
+    "Quatre grades colorés : Technicien, Technicien Team Leader, Site Supervisor, Contract Manager ; puces de filtre par grade et choix « Grade » dans le formulaire.",
+    "Import et export (.csv, .xlsx) : nouvelle colonne « Grade ». Vos fiches existantes sont conservées et deviennent des Techniciens."
   ],
-  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.4.2",
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.5.0",
   "annonce": ""
 }
