@@ -1,11 +1,13 @@
 {
-  "version": "3.5.0",
-  "date": "2026-11-13",
+  "version": "3.6.0",
+  "date": "2026-11-16",
   "notes": [
-    "Suivi des sites : le bouton TECH devient « Veolia » (barre du Suivi et chaque site), avec le pop-up « Veolia : équipe de maintenance ».",
-    "Quatre grades colorés : Technicien, Technicien Team Leader, Site Supervisor, Contract Manager ; puces de filtre par grade et choix « Grade » dans le formulaire.",
-    "Import et export (.csv, .xlsx) : nouvelle colonne « Grade ». Vos fiches existantes sont conservées et deviennent des Techniciens."
+    "Recherche : un champ « Rechercher » sur les pages Identifiants, Modèles et Accès à distance.",
+    "Suivi des sites : grades Veolia personnalisables (créer, renommer, colorer, réordonner, supprimer ; de 1 à 12 grades). Migration automatique de vos 4 grades actuels.",
+    "Nouveau bouton « Organigramme PDF » dans le Suivi : une page par secteur, au style de l’organigramme de référence.",
+    "Fiche de maintenance : catégories repliables ; création de champs Tableau et Choix par listes de saisie ; type de connexion en saisie libre ; écran de choix de connexion sur le téléphone.",
+    "Attention : gardez la même version (3.6.0) sur tous les PC qui partagent une sauvegarde (réglage équipe Veolia passé en version 2)."
   ],
-  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.5.0",
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.6.0",
   "annonce": ""
 }
