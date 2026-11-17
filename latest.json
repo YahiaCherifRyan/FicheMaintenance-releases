@@ -1,13 +1,13 @@
 {
-  "version": "3.6.0",
-  "date": "2026-11-16",
+  "version": "3.9.0",
+  "date": "2026-11-17",
   "notes": [
-    "Recherche : un champ « Rechercher » sur les pages Identifiants, Modèles et Accès à distance.",
-    "Suivi des sites : grades Veolia personnalisables (créer, renommer, colorer, réordonner, supprimer ; de 1 à 12 grades). Migration automatique de vos 4 grades actuels.",
-    "Nouveau bouton « Organigramme PDF » dans le Suivi : une page par secteur, au style de l’organigramme de référence.",
-    "Fiche de maintenance : catégories repliables ; création de champs Tableau et Choix par listes de saisie ; type de connexion en saisie libre ; écran de choix de connexion sur le téléphone.",
-    "Attention : gardez la même version (3.6.0) sur tous les PC qui partagent une sauvegarde (réglage équipe Veolia passé en version 2)."
+    "Planning GTC par année : chaque année est indépendante, création d'une nouvelle année par copie de la plus proche ; copie de secours automatique au premier lancement.",
+    "Suivi des sites par année : sélecteur d'année, création par copie, retrait d'un site par année avec rétablissement ; vos données actuelles sont rattachées à 2026.",
+    "Suivi des sites : les sites de l'équipe Veolia sont colorés selon leur état.",
+    "Outils : nouvelles cartes « Astuces Wireshark » et « Déverrouiller Windows (mot de passe oublié) ».",
+    "Corrections : export Excel du Planning (semaine du 1er janvier), nouvelle année du Suivi repartant du premier état non fait, étiquettes de sites Veolia."
   ],
-  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.6.0",
+  "url": "https://github.com/YahiaCherifRyan/FicheMaintenance-releases/releases/tag/v3.9.0",
   "annonce": ""
 }
